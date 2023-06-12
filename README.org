@@ -1,0 +1,10 @@
+* hh-redblack
+
+Implementation of red-black trees in Common Lisp, including a persistent red-black tree that uses an append-only strategy for recording changes in a text file
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hargettp/hh-redblack.git   |
+| commit  | 631dc6a  |
+| systems | hh-redblack |
+|---------+-------------------------------------------|
+
